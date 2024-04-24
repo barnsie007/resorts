@@ -22,6 +22,18 @@
       <scope>provided</scope>
     </dependency>
     <dependency>
+      <groupId>com.ibm.websphere</groupId>
+      <artifactId>runtime</artifactId>
+      <version>1.0</version>
+      <scope>provided</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.ibm.websphere</groupId>
+      <artifactId>webcontainer</artifactId>
+      <version>1.0</version>
+      <scope>provided</scope>
+    </dependency>
+    <dependency>
       <groupId>com.google.code.gson</groupId>
       <artifactId>gson</artifactId>
       <version>2.10.1</version>
